@@ -4,8 +4,8 @@
 # Include Prometheus DataSource Configuration
 #--------------------------------------------------------------------
 # https://grafana.com/grafana/download
-GRAFANA_VERSION="10.4.2"
-PROMETHEUS_URL="http://172.31.29.90:9090"
+GRAFANA_VERSION=""
+PROMETHEUS_URL=""
 
 
 apt-get install -y apt-transport-https software-properties-common wget
