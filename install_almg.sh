@@ -1,7 +1,6 @@
 #!/bin/bash
 #--------------------------------------------------------------------
 # Script to Install Prometheus Alertmanager on Linux
-# Tested on Ubuntu 22.04, 24.04, Amazon Linux 2023
 #--------------------------------------------------------------------
 # https://github.com/prometheus/alertmanager/releases
 
